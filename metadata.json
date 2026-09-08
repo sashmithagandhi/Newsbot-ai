@@ -1,0 +1,6 @@
+{
+  "name": "NewsBot",
+  "description": "AI-powered newspaper assistant and intelligence command center for Indian readers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
