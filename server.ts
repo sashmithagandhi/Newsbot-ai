@@ -479,7 +479,7 @@ let registeredUsersStore: RegisteredUser[] = [
   {
     id: "user-1",
     name: "Sashmitha Gandhi",
-    email: "sashmithagandhi6@gmail.com",
+    email: "demo@example.com",
     registeredAt: "2026-09-07T10:00:00Z",
     preferredSources: ["The Hindu", "Indian Express"]
   }
